@@ -3,7 +3,7 @@
 
 I'm doing mini challenges using CSS to study more and improve my performance in Front-End. 💻📚<br>
 In this mini challenge I made an animated tooltip with CSS. 
-The tooltip, infotip, or hint is a common graphical user interface <br>
+The tooltip, infotip, or hint is a common graphical user interface
 element displayed as an informational text box when hovering over an item. <br>
 It is used in conjunction with a cursor, usually a pointer.
 
