@@ -7,7 +7,10 @@ The tooltip, infotip, or hint is a common graphical user interface
 element displayed as an informational text box when hovering over an item. <br>
 
 ⇾ <b>What I've learned:</b><br>
-&bull; Animation;<br>
+&bull; Float;<br>
+&bull; Opacity;<br>
+&bull; Clip-path;<br>
+&bull; Transition;<br>
 
-![AnimatedGif](https://github.com/BiancaNeudorff/AnimatedTooltipWithCSS/blob/master/AnimatedTooltipWithCSS.gif)
+<img width="500" src="https://github.com/BiancaNeudorff/AnimatedTooltipWithCSS/blob/master/AnimatedTooltipWithCSS.gif">
 
