@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #a9dbc9;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.tooltip {
+    background: #A52A56;
+    color: #ffffff;
+    padding: 1em;
+    border-radius: 10px;
+    width: 250px;
+    clip-path: circle(10% at 90% 20%);
+    transition: all .3s ease-in-out;
+    cursor: pointer;
+}
+
+.tooltip:hover {
+    clip-path: circle(70%);
+
+}
+
+.tooltip:hover span{
+    opacity: 0;
+}
+
+.info {
+    float: right;
+    font-weight: 700;
+    font-style: italic;
+    margin-right: 1%;
+    margin-top: 2%;
+    transition: opacity 0.3s;
+}
